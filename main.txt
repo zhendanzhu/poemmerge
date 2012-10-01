@@ -1,6 +1,5 @@
  A poem for the class
 
-
 It was six men of Indostan 
     To learning much inclined, 
 Who went to see the Elephant 
@@ -46,3 +45,11 @@ Than, seizing on the swinging tail
     That fell within his scope, 
 “I see,” quoth he, “the Elephant 
     Is very like a rope!” 
+
+And so these men of Indostan 
+    Disputed loud and long, 
+Each in his own opinion 
+    Exceeding stiff and strong. 
+Though each was partly in the right 
+    And all were in the wrong! 
+
